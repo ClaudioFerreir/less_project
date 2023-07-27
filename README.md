@@ -1,1 +1,1 @@
-# less_project
+# LESS Project
